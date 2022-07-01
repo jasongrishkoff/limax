@@ -41,7 +41,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "@napi-rs/pinyin": "^1.7.0",
+    "pinyin": "^2.11.2",
     "hepburn": "^1.2.0",
     "speakingurl": "^14.0.1"
   },
